@@ -1,6 +1,6 @@
 # Job Watcher
 
-A daily job alert for campus job seekers. Every night it reads the careers pages of 364 companies, keeps only fresher-relevant roles, and emails each person the postings that are new since yesterday.
+A daily job alert for campus job seekers. Every night it reads the careers pages of 363 companies, keeps only fresher-relevant roles, and emails each person the postings that are new since yesterday.
 
 Running on GitHub Actions since 17 September 2026, for me and six batchmates at IIT Kanpur.
 
@@ -13,7 +13,7 @@ Off-campus openings are spread across hundreds of company careers pages. Each co
 1. **Reads each careers page.** For ten applicant-tracking systems (Workday, Oracle Recruiting, Eightfold, SmartRecruiters, Greenhouse, Lever, Workable, BambooHR, SuccessFactors, Coveo) it asks the portal's own job feed directly. For everything else it opens the page in a headless browser, and falls back to a plain HTTP request when the browser is blocked.
 2. **Filters by role.** Two profiles: `geo` (geoscience, GIS, environment, energy) and `business` (product, analytics, consulting, finance). Senior roles and roles asking 5+ years are dropped.
 3. **Shows only new postings.** A posting is one company + title, so a changed link or a "14 days ago" label does not make it look new again.
-4. **Sends one mail a day**, grouped by company, before 7 am IST. Fresher roles are marked `@f`. Pages that could not be read are listed at the bottom, so a silent failure is never mistaken for "no new jobs".
+4. **Sends one mail a day**, every morning, grouped by company. Fresher roles are marked `@f`. Pages that could not be read are listed at the bottom, so a silent failure is never mistaken for "no new jobs".
 
 ## Run it
 
