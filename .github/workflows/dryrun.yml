@@ -1,0 +1,22 @@
+name: dry run (no mail)
+on: workflow_dispatch
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 200
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright requests beautifulsoup4 && playwright install --with-deps chromium
+      - run: python job_watcher.py --dry-run > dry_geo.txt
+        timeout-minutes: 80
+      - run: python job_watcher.py --dry-run --profile business > dry_biz.txt
+        if: always()
+        timeout-minutes: 100
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: dry
+          path: dry_*.txt

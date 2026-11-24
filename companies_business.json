@@ -1,0 +1,936 @@
+{
+ "Boston Consulting Group": [
+  "https://careers.bcg.com/"
+ ],
+ "Bain & Company": [
+  "https://www.bain.com/careers/find-a-role/"
+ ],
+ "Kearney": [
+  "https://www.kearney.com/careers"
+ ],
+ "Deloitte India": [
+  "https://www2.deloitte.com/in/en/careers/careers.html"
+ ],
+ "PwC India": [
+  "https://www.pwc.in/careers.html"
+ ],
+ "EY India": [
+  "https://careers.ey.com/ey/search/"
+ ],
+ "KPMG India": [
+  "https://home.kpmg/in/en/home/careers.html"
+ ],
+ "Accenture India": [
+  "https://www.accenture.com/in-en/careers/jobsearch"
+ ],
+ "ZS Associates": [
+  "https://www.zs.com/careers/job-search"
+ ],
+ "Oliver Wyman": [
+  "https://www.oliverwyman.com/careers.html"
+ ],
+ "Alvarez & Marsal": [
+  "https://www.alvarezandmarsal.com/careers/en/jobs"
+ ],
+ "Arthur D. Little": [
+  "https://www.adlittle.com/en/careers"
+ ],
+ "Roland Berger": [
+  "https://www.rolandberger.com/en/Careers/"
+ ],
+ "Praxis Global Alliance": [
+  "https://praxisga.com/opportunities/"
+ ],
+ "Redseer Strategy Consultants": [
+  "https://redseer.com/careers/"
+ ],
+ "Fractal Analytics": [
+  "https://fractal.ai/careers/"
+ ],
+ "Tiger Analytics": [
+  "https://www.tigeranalytics.com/careers/"
+ ],
+ "Mu Sigma": [
+  "https://www.mu-sigma.com/careers"
+ ],
+ "LatentView Analytics": [
+  "https://www.latentview.com/careers/"
+ ],
+ "Quantiphi": [
+  "https://quantiphi.com/careers/"
+ ],
+ "Gramener": [
+  "https://gramener.com/careers/"
+ ],
+ "Course5 Intelligence": [
+  "https://www.c5i.ai/careers/"
+ ],
+ "Tredence": [
+  "https://www.tredence.com/careers"
+ ],
+ "Goldman Sachs": [
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring"
+ ],
+ "J.P. Morgan": [
+  "https://careers.jpmorgan.com/global/en/students/programs"
+ ],
+ "Morgan Stanley": [
+  "https://www.morganstanley.com/careers/career-opportunities-search"
+ ],
+ "Nomura": [
+  "https://www.nomura.com/careers/"
+ ],
+ "Barclays": [
+  "https://search.jobs.barclays/"
+ ],
+ "HSBC": [
+  "https://portal.careers.hsbc.com/careers?domain=hsbc.com"
+ ],
+ "Citi": [
+  "https://jobs.citi.com/"
+ ],
+ "Deutsche Bank": [
+  "https://db.wd3.myworkdayjobs.com/DBWebsite"
+ ],
+ "UBS": [
+  "https://jobs.ubs.com/"
+ ],
+ "American Express": [
+  "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+ ],
+ "Wells Fargo India": [
+  "https://www.wellsfargojobs.com/en/jobs/"
+ ],
+ "Standard Chartered": [
+  "https://jobs.standardchartered.com/"
+ ],
+ "BlackRock": [
+  "https://careers.blackrock.com/"
+ ],
+ "Bank of America": [
+  "https://careers.bankofamerica.com/en-us/students"
+ ],
+ "CRISIL": [
+  "https://www.crisil.com/en/home/careers.html"
+ ],
+ "ICRA": [
+  "https://www.icra.in/Careers"
+ ],
+ "CARE Ratings": [
+  "https://www.careratings.com/careers"
+ ],
+ "S&P Global": [
+  "https://www.spglobal.com/en/careers/students-and-graduates"
+ ],
+ "Moody's": [
+  "https://careers.moodys.com/"
+ ],
+ "MSCI": [
+  "https://www.msci.com/careers"
+ ],
+ "FactSet": [
+  "https://www.factset.com/careers"
+ ],
+ "Morningstar India": [
+  "https://www.morningstar.com/careers"
+ ],
+ "Bloomberg": [
+  "https://www.bloomberg.com/company/careers/"
+ ],
+ "NielsenIQ": [
+  "https://nielseniq.com/global/en/careers/"
+ ],
+ "Kantar": [
+  "https://www.kantar.com/careers"
+ ],
+ "Google": [
+  "https://www.google.com/about/careers/applications/jobs/results/?location=India"
+ ],
+ "Microsoft": [
+  "https://jobs.careers.microsoft.com/global/en/search"
+ ],
+ "Amazon": [
+  "https://www.amazon.jobs/en/search"
+ ],
+ "Flipkart": [
+  "https://www.flipkartcareers.com/"
+ ],
+ "Swiggy": [
+  "https://careers.swiggy.com/"
+ ],
+ "Zomato": [
+  "https://www.zomato.com/careers"
+ ],
+ "Razorpay": [
+  "https://razorpay.com/jobs/"
+ ],
+ "PhonePe": [
+  "https://www.phonepe.com/careers/job-openings/"
+ ],
+ "Groww": [
+  "https://groww.in/careers"
+ ],
+ "Zerodha": [
+  "https://zerodha.com/careers/"
+ ],
+ "CRED": [
+  "https://careers.cred.club/"
+ ],
+ "Meesho": [
+  "https://www.meesho.io/jobs"
+ ],
+ "Zepto": [
+  "https://www.zeptonow.com/careers"
+ ],
+ "Dream11": [
+  "https://www.dream11.com/careers"
+ ],
+ "Navi": [
+  "https://navi.com/careers"
+ ],
+ "Atlassian": [
+  "https://www.atlassian.com/company/careers/all-jobs"
+ ],
+ "Salesforce": [
+  "https://careers.salesforce.com/en/jobs/"
+ ],
+ "Adobe": [
+  "https://careers.adobe.com/us/en/search-results"
+ ],
+ "Uber": [
+  "https://www.uber.com/us/en/careers/list/"
+ ],
+ "Walmart Global Tech India": [
+  "https://careers.walmart.com/"
+ ],
+ "Sprinklr": [
+  "https://sprinklr.wd1.myworkdayjobs.com/careers"
+ ],
+ "Freshworks": [
+  "https://www.freshworks.com/company/careers/"
+ ],
+ "Zoho": [
+  "https://www.zoho.com/careers/"
+ ],
+ "Postman": [
+  "https://www.postman.com/company/careers/"
+ ],
+ "BrowserStack": [
+  "https://www.browserstack.com/careers"
+ ],
+ "InMobi": [
+  "https://www.inmobi.com/company/careers"
+ ],
+ "Evalueserve": [
+  "https://www.evalueserve.com/careers/"
+ ],
+ "WNS": [
+  "https://www.wns.com/careers"
+ ],
+ "Genpact": [
+  "https://www.genpact.com/careers"
+ ],
+ "EXL Service": [
+  "https://www.exlservice.com/careers"
+ ],
+ "TresVista": [
+  "https://www.tresvista.com/careers/"
+ ],
+ "Acuity Knowledge Partners": [
+  "https://www.acuitykp.com/careers/"
+ ],
+ "Aranca": [
+  "https://www.aranca.com/careers"
+ ],
+ "Netscribes": [
+  "https://www.netscribes.com/careers/"
+ ],
+ "Nomura Research Institute": [
+  "https://www.nri.com/en/careers"
+ ],
+ "Frost & Sullivan": [
+  "https://www.frost.com/careers/"
+ ],
+ "Gartner": [
+  "https://jobs.gartner.com/"
+ ],
+ "Forrester": [
+  "https://www.forrester.com/careers/"
+ ],
+ "Infosys Consulting": [
+  "https://www.infosysconsultinginsights.com/careers/"
+ ],
+ "Capgemini India": [
+  "https://www.capgemini.com/careers/"
+ ],
+ "Cognizant": [
+  "https://careers.cognizant.com/global/en"
+ ],
+ "TCS": [
+  "https://www.tcs.com/careers"
+ ],
+ "Infosys": [
+  "https://career.infosys.com/joblist"
+ ],
+ "Wipro": [
+  "https://careers.wipro.com/"
+ ],
+ "HCLTech": [
+  "https://www.hcltech.com/careers"
+ ],
+ "Tech Mahindra": [
+  "https://careers.techmahindra.com/"
+ ],
+ "LTIMindtree": [
+  "https://www.ltimindtree.com/careers/"
+ ],
+ "Mphasis": [
+  "https://careers.mphasis.com/"
+ ],
+ "Persistent Systems": [
+  "https://www.persistent.com/company-overview/careers/"
+ ],
+ "Hexaware": [
+  "https://hexaware.com/careers/"
+ ],
+ "Birlasoft": [
+  "https://www.birlasoft.com/careers"
+ ],
+ "Coforge": [
+  "https://www.coforge.com/careers"
+ ],
+ "Zensar": [
+  "https://www.zensar.com/careers"
+ ],
+ "HDFC Bank": [
+  "https://www.hdfcbank.com/personal/about-us/careers"
+ ],
+ "ICICI Bank": [
+  "https://www.icicicareers.com/"
+ ],
+ "Axis Bank": [
+  "https://www.axisbank.com/careers"
+ ],
+ "Kotak Mahindra Bank": [
+  "https://www.kotak.com/en/careers.html"
+ ],
+ "IDFC First Bank": [
+  "https://careers.idfcfirst.bank.in/in/en/search-results"
+ ],
+ "IndusInd Bank": [
+  "https://www.indusind.com/in/en/personal/careers.html"
+ ],
+ "State Bank of India": [
+  "https://bank.sbi/careers"
+ ],
+ "Bajaj Finserv": [
+  "https://www.bajajfinserv.in/careers"
+ ],
+ "IIFL Finance": [
+  "https://www.iifl.com/careers"
+ ],
+ "Motilal Oswal": [
+  "https://www.motilaloswalgroup.com/Careers"
+ ],
+ "Edelweiss": [
+  "https://www.edelweissfin.com/careers/"
+ ],
+ "JM Financial": [
+  "https://www.jmfl.com/careers"
+ ],
+ "Avendus Capital": [
+  "https://www.avendus.com/india/careers"
+ ],
+ "ICICI Securities": [
+  "https://www.icicisecurities.com/careers"
+ ],
+ "Angel One": [
+  "https://www.angelone.in/careers"
+ ],
+ "Nuvama Wealth": [
+  "https://www.nuvama.com/careers"
+ ],
+ "360 ONE": [
+  "https://www.360.one/careers"
+ ],
+ "Ambit": [
+  "https://www.ambit.co/careers"
+ ],
+ "HDFC AMC": [
+  "https://www.hdfcfund.com/careers"
+ ],
+ "SBI Mutual Fund": [
+  "https://www.sbimf.com/careers"
+ ],
+ "Nippon India Mutual Fund": [
+  "https://mf.nipponindiaim.com/careers"
+ ],
+ "DSP Mutual Fund": [
+  "https://www.dspim.com/careers"
+ ],
+ "Mirae Asset": [
+  "https://www.miraeassetmf.co.in/careers"
+ ],
+ "Blackstone": [
+  "https://www.blackstone.com/careers/"
+ ],
+ "KKR": [
+  "https://www.kkr.com/careers"
+ ],
+ "Warburg Pincus": [
+  "https://warburgpincus.com/careers/"
+ ],
+ "General Atlantic": [
+  "https://www.generalatlantic.com/careers/"
+ ],
+ "Peak XV Partners": [
+  "https://www.peakxv.com/careers/"
+ ],
+ "Accel": [
+  "https://www.accel.com/careers"
+ ],
+ "Elevation Capital": [
+  "https://elevationcapital.com/careers"
+ ],
+ "Lightspeed": [
+  "https://lsvp.com/careers/"
+ ],
+ "Bessemer Venture Partners": [
+  "https://www.bvp.com/careers"
+ ],
+ "Swiss Re": [
+  "https://careers.swissre.com/"
+ ],
+ "Munich Re": [
+  "https://www.munichre.com/en/careers.html"
+ ],
+ "Allianz": [
+  "https://careers.allianz.com/"
+ ],
+ "Aon": [
+  "https://jobs.aon.com/"
+ ],
+ "Marsh McLennan": [
+  "https://careers.marshmclennan.com/"
+ ],
+ "WTW": [
+  "https://careers.wtwco.com/"
+ ],
+ "MetLife": [
+  "https://jobs.metlife.com/"
+ ],
+ "HDFC Life": [
+  "https://www.hdfclife.com/careers"
+ ],
+ "ICICI Lombard": [
+  "https://www.icicilombard.com/careers"
+ ],
+ "Meta": [
+  "https://www.metacareers.com/jobs"
+ ],
+ "Apple": [
+  "https://jobs.apple.com/en-in/search"
+ ],
+ "Netflix": [
+  "https://explore.jobs.netflix.net/careers"
+ ],
+ "LinkedIn": [
+  "https://careers.linkedin.com/"
+ ],
+ "Oracle": [
+  "https://careers.oracle.com/"
+ ],
+ "SAP": [
+  "https://jobs.sap.com/"
+ ],
+ "IBM": [
+  "https://www.ibm.com/careers/search"
+ ],
+ "Intuit": [
+  "https://jobs.intuit.com/"
+ ],
+ "PayPal": [
+  "https://careers.pypl.com/"
+ ],
+ "Visa": [
+  "https://corporate.visa.com/en/jobs.html"
+ ],
+ "Mastercard": [
+  "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+ ],
+ "Stripe": [
+  "https://stripe.com/jobs/search"
+ ],
+ "ServiceNow": [
+  "https://careers.servicenow.com/"
+ ],
+ "Workday": [
+  "https://www.workday.com/en-us/company/careers.html"
+ ],
+ "Snowflake": [
+  "https://careers.snowflake.com/"
+ ],
+ "Databricks": [
+  "https://www.databricks.com/company/careers/open-positions"
+ ],
+ "NVIDIA": [
+  "https://www.nvidia.com/en-us/about-nvidia/careers/"
+ ],
+ "Qualcomm": [
+  "https://careers.qualcomm.com/"
+ ],
+ "Cisco": [
+  "https://jobs.cisco.com/"
+ ],
+ "Dell Technologies": [
+  "https://jobs.dell.com/"
+ ],
+ "HP": [
+  "https://jobs.hp.com/"
+ ],
+ "Intel": [
+  "https://jobs.intel.com/"
+ ],
+ "Texas Instruments": [
+  "https://careers.ti.com/"
+ ],
+ "Expedia Group": [
+  "https://careers.expediagroup.com/"
+ ],
+ "Booking.com": [
+  "https://jobs.booking.com/careers"
+ ],
+ "Airbnb": [
+  "https://careers.airbnb.com/"
+ ],
+ "Spotify": [
+  "https://www.lifeatspotify.com/jobs"
+ ],
+ "Twilio": [
+  "https://www.twilio.com/en-us/company/jobs"
+ ],
+ "IQVIA": [
+  "https://jobs.iqvia.com/"
+ ],
+ "Novartis": [
+  "https://www.novartis.com/careers"
+ ],
+ "Sanofi": [
+  "https://www.sanofi.com/en/careers"
+ ],
+ "GSK": [
+  "https://jobs.gsk.com/"
+ ],
+ "Pfizer": [
+  "https://www.pfizer.com/about/careers"
+ ],
+ "Roche": [
+  "https://careers.roche.com/"
+ ],
+ "AstraZeneca": [
+  "https://careers.astrazeneca.com/"
+ ],
+ "Sun Pharma": [
+  "https://sunpharma.com/careers/"
+ ],
+ "Dr. Reddy's Laboratories": [
+  "https://careers.drreddys.com/"
+ ],
+ "Cipla": [
+  "https://www.cipla.com/careers"
+ ],
+ "Hindustan Unilever": [
+  "https://www.hul.co.in/careers/"
+ ],
+ "Procter & Gamble": [
+  "https://www.pgcareers.com/"
+ ],
+ "ITC": [
+  "https://www.itcportal.com/careers/"
+ ],
+ "Nestle India": [
+  "https://www.nestle.in/jobs"
+ ],
+ "Marico": [
+  "https://marico.com/india/careers"
+ ],
+ "Dabur": [
+  "https://www.dabur.com/careers"
+ ],
+ "Asian Paints": [
+  "https://www.asianpaints.com/careers.html"
+ ],
+ "Mondelez International": [
+  "https://www.mondelezinternational.com/careers/"
+ ],
+ "PepsiCo": [
+  "https://www.pepsicojobs.com/"
+ ],
+ "Coca-Cola": [
+  "https://careers.coca-colacompany.com/"
+ ],
+ "Britannia": [
+  "https://www.britannia.co.in/careers"
+ ],
+ "Godrej": [
+  "https://www.godrejcareers.com/"
+ ],
+ "Colgate-Palmolive": [
+  "https://jobs.colgate.com/"
+ ],
+ "Reckitt": [
+  "https://careers.reckitt.com/"
+ ],
+ "Reliance Industries": [
+  "https://careers.ril.com/"
+ ],
+ "Tata Motors": [
+  "https://www.tatamotors.com/careers/"
+ ],
+ "Mahindra Group": [
+  "https://jobs.mahindracareers.com/"
+ ],
+ "Maruti Suzuki": [
+  "https://www.marutisuzuki.com/corporate/careers"
+ ],
+ "Larsen & Toubro": [
+  "https://www.larsentoubro.com/corporate/careers/"
+ ],
+ "Adani Group": [
+  "https://www.adani.com/careers"
+ ],
+ "Aditya Birla Group": [
+  "https://careers.adityabirla.com/"
+ ],
+ "Tata Steel": [
+  "https://www.tatasteel.com/careers/"
+ ],
+ "Siemens": [
+  "https://jobs.siemens.com/"
+ ],
+ "Honeywell": [
+  "https://careers.honeywell.com/"
+ ],
+ "Schneider Electric": [
+  "https://www.se.com/ww/en/about-us/careers/"
+ ],
+ "Bosch India": [
+  "https://www.bosch.in/careers/"
+ ],
+ "Ola": [
+  "https://www.olacabs.com/careers"
+ ],
+ "Rapido": [
+  "https://rapido.bike/careers"
+ ],
+ "Delhivery": [
+  "https://www.delhivery.com/careers/"
+ ],
+ "Nykaa": [
+  "https://careers.nykaa.com/"
+ ],
+ "Myntra": [
+  "https://careers.myntra.com/"
+ ],
+ "Lenskart": [
+  "https://www.lenskart.com/careers"
+ ],
+ "Urban Company": [
+  "https://www.urbancompany.com/careers"
+ ],
+ "Cult.fit": [
+  "https://www.cult.fit/careers"
+ ],
+ "Licious": [
+  "https://www.licious.in/careers"
+ ],
+ "Honasa (Mamaearth)": [
+  "https://honasa.in/careers"
+ ],
+ "Purplle": [
+  "https://www.purplle.com/careers"
+ ],
+ "PhysicsWallah": [
+  "https://www.pw.live/careers"
+ ],
+ "Unacademy": [
+  "https://unacademy.com/careers"
+ ],
+ "upGrad": [
+  "https://www.upgrad.com/careers/"
+ ],
+ "Eruditus": [
+  "https://eruditus.com/careers/"
+ ],
+ "Scaler": [
+  "https://www.scaler.com/careers/"
+ ],
+ "Mobile Premier League": [
+  "https://www.mpl.live/careers"
+ ],
+ "Games24x7": [
+  "https://www.games24x7.com/careers/"
+ ],
+ "Nazara Technologies": [
+  "https://www.nazara.com/careers"
+ ],
+ "Chargebee": [
+  "https://www.chargebee.com/careers/"
+ ],
+ "Darwinbox": [
+  "https://darwinbox.com/careers"
+ ],
+ "Icertis": [
+  "https://www.icertis.com/company/careers/"
+ ],
+ "MoEngage": [
+  "https://www.moengage.com/careers/"
+ ],
+ "CleverTap": [
+  "https://clevertap.com/careers/"
+ ],
+ "Whatfix": [
+  "https://whatfix.com/careers/"
+ ],
+ "Innovaccer": [
+  "https://innovaccer.com/careers"
+ ],
+ "Hasura": [
+  "https://hasura.io/careers"
+ ],
+ "Juspay": [
+  "https://juspay.io/careers"
+ ],
+ "M2P Fintech": [
+  "https://m2pfintech.com/careers/"
+ ],
+ "Perfios": [
+  "https://www.perfios.com/careers/"
+ ],
+ "Signzy": [
+  "https://signzy.com/careers/"
+ ],
+ "HighRadius": [
+  "https://www.highradius.com/careers/"
+ ],
+ "Mindtickle": [
+  "https://www.mindtickle.com/careers/"
+ ],
+ "Amagi": [
+  "https://www.amagi.com/careers"
+ ],
+ "Netcore Cloud": [
+  "https://netcorecloud.com/careers/"
+ ],
+ "Capillary Technologies": [
+  "https://www.capillarytech.com/careers/"
+ ],
+ "Kissflow": [
+  "https://kissflow.com/careers/"
+ ],
+ "Bharti Airtel": [
+  "https://careers.airtel.com/"
+ ],
+ "Reliance Jio": [
+  "https://careers.jio.com/"
+ ],
+ "Tower Research Capital": [
+  "https://www.tower-research.com/open-positions/"
+ ],
+ "Optiver": [
+  "https://optiver.com/working-at-optiver/career-opportunities/"
+ ],
+ "Jane Street": [
+  "https://www.janestreet.com/join-jane-street/open-roles/"
+ ],
+ "WorldQuant": [
+  "https://www.worldquant.com/career-listing/"
+ ],
+ "Graviton Research Capital": [
+  "https://www.gravitontrading.com/careers.html"
+ ],
+ "Quadeye": [
+  "https://quadeye.com/careers/"
+ ],
+ "AlphaGrep": [
+  "https://www.alpha-grep.com/careers"
+ ],
+ "Squarepoint Capital": [
+  "https://www.squarepoint-capital.com/careers"
+ ],
+ "Millennium": [
+  "https://www.mlp.com/careers/"
+ ],
+ "AQR Capital": [
+  "https://www.aqr.com/Careers"
+ ],
+ "Citadel": [
+  "https://www.citadel.com/careers/open-opportunities/"
+ ],
+ "D. E. Shaw India": [
+  "https://www.deshawindia.com/careers"
+ ],
+ "AlixPartners": [
+  "https://www.alixpartners.com/careers/"
+ ],
+ "FTI Consulting": [
+  "https://www.fticonsulting.com/careers"
+ ],
+ "Kroll": [
+  "https://www.kroll.com/en/careers"
+ ],
+ "Grant Thornton Bharat": [
+  "https://www.grantthornton.in/careers/"
+ ],
+ "BDO India": [
+  "https://www.bdo.in/en-gb/careers"
+ ],
+ "Protiviti India": [
+  "https://www.protiviti.com/in-en/careers"
+ ],
+ "Vector Consulting Group": [
+  "https://www.vectorconsulting.in/careers/"
+ ],
+ "Auctus Advisors": [
+  "https://auctusadvisors.in/careers/"
+ ],
+ "Everest Group": [
+  "https://www.everestgrp.com/careers/"
+ ],
+ "Zinnov": [
+  "https://zinnov.com/careers/"
+ ],
+ "Avalon Consulting": [
+  "https://www.consultavalon.com/careers/"
+ ],
+ "Simon-Kucher": [
+  "https://www.simon-kucher.com/en/careers"
+ ],
+ "Analysys Mason": [
+  "https://www.analysysmason.com/careers/"
+ ],
+ "Jefferies": [
+  "https://www.jefferies.com/careers/"
+ ],
+ "Lazard": [
+  "https://www.lazard.com/careers/"
+ ],
+ "Rothschild & Co": [
+  "https://www.rothschildandco.com/en/careers/"
+ ],
+ "Houlihan Lokey": [
+  "https://hl.com/careers/"
+ ],
+ "BNP Paribas": [
+  "https://group.bnpparibas/en/careers/all-job-offers?country=India"
+ ],
+ "Societe Generale": [
+  "https://careers.societegenerale.com/"
+ ],
+ "Macquarie": [
+  "https://www.macquarie.com/us/en/about/careers.html"
+ ],
+ "Equirus Capital": [
+  "https://www.equirus.com/careers"
+ ],
+ "Spark Capital": [
+  "https://www.sparkcapital.in/careers"
+ ],
+ "DAM Capital": [
+  "https://www.damcapital.in/careers"
+ ],
+ "Diageo India": [
+  "https://www.diageo.com/en/careers"
+ ],
+ "AB InBev": [
+  "https://www.ab-inbev.com/careers/"
+ ],
+ "L'Oreal": [
+  "https://careers.loreal.com/"
+ ],
+ "Perfetti Van Melle": [
+  "https://www.perfettivanmelle.com/careers"
+ ],
+ "Tata Consumer Products": [
+  "https://www.tataconsumer.com/careers"
+ ],
+ "Emami": [
+  "https://www.emamiltd.in/careers/"
+ ],
+ "Pidilite": [
+  "https://www.pidilite.com/careers/"
+ ],
+ "Berger Paints": [
+  "https://www.bergerpaints.com/careers"
+ ],
+ "Vedanta Limited": [
+  "https://www.vedantalimited.com/careers"
+ ],
+ "Samsung India": [
+  "https://www.samsung.com/in/aboutsamsung/careers/"
+ ],
+ "Sony": [
+  "https://www.sony.com/en/SonyInfo/Careers/"
+ ],
+ "Philips": [
+  "https://www.careers.philips.com/"
+ ],
+ "Micron": [
+  "https://careers.micron.com/"
+ ],
+ "AMD": [
+  "https://careers.amd.com/"
+ ],
+ "Western Digital": [
+  "https://jobs.smartrecruiters.com/WesternDigital"
+ ],
+ "Palo Alto Networks": [
+  "https://jobs.paloaltonetworks.com/"
+ ],
+ "Rubrik": [
+  "https://www.rubrik.com/company/careers"
+ ],
+ "Arista Networks": [
+  "https://www.arista.com/en/careers"
+ ],
+ "Tata Group (TAS)": [
+  "https://www.tata.com/careers"
+ ],
+ "Piramal Group": [
+  "https://www.piramal.com/careers/"
+ ],
+ "Tata Projects": [
+  "https://www.tataprojects.com/careers/"
+ ],
+ "Spotnana": [
+  "https://www.spotnana.com/careers"
+ ],
+ "Enam Holdings": [
+  "https://www.enam.com/careers"
+ ],
+ "Trexquant Investment LLP": [
+  "https://trexquant.com/"
+ ],
+ "NK Securities Research": [
+  "https://www.nksecurities.com/careers"
+ ],
+ "Teradata": [
+  "https://careers.teradata.com/jobs"
+ ],
+ "GE Aerospace": [
+  "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite"
+ ],
+ "GE Vernova": [
+  "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite"
+ ],
+ "AllianceBernstein": [
+  "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers"
+ ],
+ "LSEG": [
+  "https://lseg.wd3.myworkdayjobs.com/Careers",
+  "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers"
+ ],
+ "Credit Saison India": [
+  "https://saison.wd102.myworkdayjobs.com/Credit_Saison_India"
+ ]
+}

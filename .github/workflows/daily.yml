@@ -1,0 +1,49 @@
+name: daily job watch
+on:
+  schedule:
+    - cron: "0 19 * * *"   # 19:00 UTC = 00:30 IST, so the mail lands before 7am IST
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata   # subject line dates in IST, not UTC
+    timeout-minutes: 200
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright requests beautifulsoup4 && playwright install --with-deps chromium
+      - run: python job_watcher.py
+        timeout-minutes: 80
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_BCC: ${{ secrets.MAIL_BCC }}
+      - run: python job_watcher.py --profile business
+        if: always()
+        timeout-minutes: 100
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_BCC: ${{ secrets.MAIL_BCC }}
+      - run: python job_watcher.py --flush   # business run died before merging: send the geo section alone
+        if: always()
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_BCC: ${{ secrets.MAIL_BCC }}
+      - name: save seen jobs
+        if: always()
+        run: |
+          git config user.name "job-watcher"
+          git config user.email "actions@github.com"
+          git add seen_jobs.json seen_business.json
+          git commit -m "update seen jobs" || true
+          git push
